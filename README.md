@@ -1,0 +1,1 @@
+# hexa4c-pages-theme
