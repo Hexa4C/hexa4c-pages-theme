@@ -101,3 +101,7 @@ deploy:
   type: git
   repository: https://github.com/Hexa4C/Hexa4C.github.io
   branch: master
+
+# Social
+social:
+  github: Hexa4C
